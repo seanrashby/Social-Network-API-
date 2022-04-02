@@ -5,9 +5,7 @@ NoSQL Social Network API
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+
 
 ## Description
 This Social Network API uses MongoDB (a NoSQL database), Mongoose, and Express.js.
