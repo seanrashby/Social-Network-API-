@@ -35,7 +35,7 @@ const reactionSchema = new Schema({
 
 
 
-// Thought Schema for the subdocument
+
 const thoughtSchema = new Schema({
         thoughtText: { 
                 type: String, 
