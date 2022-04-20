@@ -9,3 +9,10 @@ connection.once('open', async () => {
   console.log('connected');
   await Post.deleteMany({});
   await User.deleteMany({});
+
+  const users = [];
+
+  for (let i = 0; i < 20; i++) {
+    const fullName = getRandomName();
+    const first = fullName.split(' ')[0];
+    const last = fullName.split(' ')[1];
