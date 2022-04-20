@@ -1,0 +1,55 @@
+{
+    "users": [
+        {
+            "username": "mesalito",
+            "email": "mesal@gmail.com"
+        },
+        {
+            "username": "Bandito",
+            "email": "bandit@gmail.com"
+        },
+        {
+            "username": "steve",
+            "email": "steve@gmail.com"
+        },
+        {
+            "username": "donny",
+            "email": "bigdo@gmail.com"
+        }
+
+    ],
+    "thoughts": [
+        {
+            "thoughtText": "I love western movies",
+            "username": "mesalito",
+            "reactions": [
+                {
+                    "reactionText": "you too?",
+                    "username": "Bandito"
+                }
+            ]
+        },
+        {
+            "thoughtText": "Oof",
+            "username": "Bandito"
+        },
+        {
+            "thoughtText": "Yee",
+            "username": "Donny"
+        },
+        {
+            "thoughtText": "Sike",
+            "username": "donny",
+            "reactions": [
+                {
+                    "reactionText": "Pew pew",
+                    "username": "mesalito"
+                },
+                {
+                    "reactionText": "Hands where I can see em!",
+                    "username": "Bandito"
+                }
+            ]
+        }
+    ]   
+}
